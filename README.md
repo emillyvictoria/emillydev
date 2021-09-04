@@ -2,7 +2,7 @@
 
 
 - 🔭 Cursando Engenharia de Software
-- 🌱 Atualmente estudando HTML, CSS e JAVASCRIT
+- 🌱 Atualmente estudando HTML, CSS e JavaScript
 - ⚡ Sinônimo de diversão pra mim é programar!
 
 <div>
