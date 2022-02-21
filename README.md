@@ -6,7 +6,7 @@
 - ⚡ Sinônimo de diversão pra mim é programar!
 
 <div>
-  <a href="https://github.com/emillydev">
+  <a href="https://github.com/emillyvictoria">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emillydev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillydev&layout=compact&langs_count=7&theme=omni"/>
 </div>
