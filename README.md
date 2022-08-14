@@ -2,7 +2,7 @@
 
 
 - 🔭 Cursando Engenharia de Software
-- 🌱 Atualmente estudando Python e JavaScript
+- 🌱 Atualmente estudando Python e SQL para ciência de dados
 
 <div>
   <a href="https://github.com/emillyvictoria">
